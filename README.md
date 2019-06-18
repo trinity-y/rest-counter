@@ -15,6 +15,3 @@ now, you can queue up all the rests that you have. input the number of bars of r
 prepare to play! when you want to start counting your rests, click the enter button, and the program will count!
 the program will warn you when there is one bar left and signal you at the end of that final bar.
 
-hopefully this is somewhat useful -- enjoy! :)
-
-
