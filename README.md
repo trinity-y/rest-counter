@@ -1,12 +1,6 @@
 # rest-counter
 
-// not cool!
-
-okay i know this is very bad & rushed, but i'm working on trying to make this into an app so??? this is like a prototype??? 
-
-if you want to know how it works i put comments in the code but it's really not interesting
-
-// how do i even use this
+## how to use this poorly made program
 
 now, since it's badly made, i must explain. 
 
