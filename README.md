@@ -1,8 +1,8 @@
 # rest-counter
 
-## how to use this poorly made program
+## how to use this program
 
-now, since it's badly made, i must explain. 
+now, i must explain. 
 
 (by the way, this only works for full bars because, i mean, don't be lazy and count that eighth beat rest okay?)
 
