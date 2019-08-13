@@ -1,4 +1,4 @@
-# rest-counter
+# rest-counter (file version)
 
 ## how to use this program
 
