@@ -4,7 +4,7 @@
 
 now, i must explain. 
 
-(by the way, this only works for full bars because, i mean, don't be lazy and count that eighth beat rest okay?)
+(by the way, this only works for full bars)
 
 first, input your tempo (bpm). make sure it's an integer, letters will break it!
 
